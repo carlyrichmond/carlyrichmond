@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi everyone! 👋
+
+Carly Richmond here! I am a Senior UI Engineer, UX enthusiast, Agile advocate and Developer Advocate at heart. I currently work in financial services. I have been building software since 2011, having joined as a graduate fresh out of university. 
+
+Tech wise I currently use Angular, Cypress and the usual web stuff day to day. But always learning new technologies as I go. Especially since I moved from Desktop to Web UI development a few years ago.
+
+I loves learning, supporting and mentoring other developers. In my spare time I share my development experiences and lessons in the pursuit of inspiring other to build impactful software in a better way. You can check out my musings [on my personal blog,](https://carlyrichmond.com/blog-home/) [and through my talks](https://carlyrichmond.com/talks/).
+
+Outside of technology, Carly loves photography 📸, cooking 🥘 and drinking a lot of tea ☕🍵!
+
+Do get in touch if you would like to chat! I'm always happy to chat via DM on my [LinkedIn](https://www.linkedin.com/in/carly-richmond-b4b03563/) or [Twitter](https://twitter.com/CarlyLRichmond).
 
 <!--
 **carlyrichmond/carlyrichmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
