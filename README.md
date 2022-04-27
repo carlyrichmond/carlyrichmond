@@ -2,7 +2,7 @@
 
 Carly Richmond here! I am a Developer Advocate at Elastic 🥑, Frontend engineer, UX enthusiast and Agile advocate. Prior to joining Elastic I worked in financial services for over 10 years, in a mixture of roles including Senior Frontend Engineer, Tech Lead, People Manager and Agile Coach.
 
-Tech wise I am dabbling in React and the Elastic Product suite. Historically I've focused on Angular, Cypress and the usual web stuff. But I love learning new technologies and do that as much as I can. Especially since I moved from Desktop UI to Web UI development severak years ago.
+Tech wise I am dabbling in React and the Elastic Product suite. Historically I've focused on Angular, Cypress and the usual web stuff. But I love learning new technologies and do that as much as I can. Especially since I moved from Desktop UI to Web UI development several years ago.
 
 I loves learning, supporting and mentoring other developers. In my spare time I share my development experiences and lessons in the pursuit of inspiring other to build impactful software in a better way. You can check out my musings [on my personal blog,](https://carlyrichmond.com/blog-home/) [and through my talks](https://carlyrichmond.com/talks/).
 
