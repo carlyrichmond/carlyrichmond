@@ -8,7 +8,7 @@ I loves learning, supporting and mentoring other developers. In my spare time I 
 
 Outside of technology, I loves photography 📸, cooking 🥘 and drinking a lot of tea ☕🍵!
 
-Do get in touch if you would like to chat! I'm always happy to chat via DM on my [LinkedIn](https://www.linkedin.com/in/carly-richmond-b4b03563/) or [Twitter](https://twitter.com/CarlyLRichmond).
+Do get in touch if you would like to chat! I'm always happy to chat via DM on [LinkedIn](https://www.linkedin.com/in/carly-richmond-b4b03563/), [Mastodon](https://mastodon.social/@carlyrichmond) or [Twitter](https://twitter.com/CarlyLRichmond).
 
 <!--
 **carlyrichmond/carlyrichmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
