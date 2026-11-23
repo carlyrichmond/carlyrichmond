@@ -5,6 +5,8 @@ Carly Richmond here! I am Head of Developer Advocacy (🥑) at Elastic, Software
 Tech wise I am currently dabbling in: 
 
 - AI SDK by Vercel
+- AI skills and agents
+- Optimising my Claude and Cursor workflow
 - OpenTelemetry
 - TypeScript and JavaScript
 - Jina models
